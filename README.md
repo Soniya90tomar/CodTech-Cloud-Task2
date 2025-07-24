@@ -15,7 +15,7 @@ This task simulates a cloud-based monitoring setup using industry tools and visu
 - 🚀 Alerts are assumed to trigger notifications via email or webhook
 
 ## 📸 Monitoring Dashboard
-![Monitoring Dashboard](screenshots/sample_monitoring_dashboard.jpg)
+![Monitoring Dashboard](screenshots/sample_monitoring_dashboard.png)
 
 ## ✅ Conclusion
 This submission completes Task 2 of the CodTech Cloud Computing Internship by demonstrating cloud monitoring concepts using a realistic simulated dashboard and alert logic.
